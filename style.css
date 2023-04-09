@@ -1,0 +1,511 @@
+img {
+    margin-left: 100px;
+    
+}
+#nav-img{
+width: 480px;
+}
+
+#btn1 {
+    border: 1px solid #153c59;
+    background-color: #153c59;
+    color: white;
+    margin-right: 20px;
+    height: 45px;
+    width: 130px;
+    border-radius: 13px;
+}
+
+#btn2 {
+    border: 1px solid #0973a3;
+    background-color: #0973a3;
+    color: white;
+    margin-right: 100px;
+    height: 45px;
+    width: 100px;
+    border-radius: 13px;
+}
+
+.main {
+    background-color: #f1f1f1;
+    height: 600px;
+    width: 100%;
+    margin-top: 10px;
+    position: relative;
+}
+
+#card1 {
+    background-color: #fff;
+    width: 40rem;
+    height: 480px;
+    padding: 30px;
+    position: absolute;
+    /* bottom: 75px; */
+    /* text-align: center; */
+    border-radius: 15px;
+    top: 10%;
+}
+
+.para {
+    font-family: Fira Sans, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    color: rgba(40, 40, 40, .53);
+    line-height: 1.1em;
+    padding-left: 60px;
+    margin-top: 40px;
+}
+
+.content {
+    font-family: Merriweather, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    color: #282828;
+    line-height: 1.3em;
+    margin: 0;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#img2 {
+    width: 350px;
+    /* margin-left: 120px;
+    margin-top: 100px; */
+    padding-left: 50px;
+    padding-top: 70px;
+}
+
+.top {
+    width: 30rem;
+    height: 270px;
+    background-color: #fff;
+    position: absolute;
+    left: 58%;
+    top: 10%;
+    text-align: center;
+    border-radius: 15px;
+
+}
+
+/* display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between; */
+
+#try {
+    background-color: #febf27;
+    color: #000;
+    height: 50px;
+    width: 270px;
+    border-radius: 15px;
+    margin-top: 25px;
+}
+
+#sub {
+    border: 1px solid #153c59;
+    background-color: #153c59;
+    color: white;
+    margin-right: 20px;
+    height: 50px;
+    width: 250px;
+    border-radius: 15px;
+    margin-left: 10px;
+
+}
+
+.bottom {
+    background-color: #fff;
+    width: 30rem;
+    height: 220px;
+    position: absolute;
+    left: 58%;
+    top: 60%;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+#b-img {
+    width: 250px;
+    margin-top: 25px;
+    margin-right: 100px;
+}
+
+#img4 {
+    display: flex;
+    width: 150px;
+    height: 50px;
+    margin-top: 30px;
+    margin-right: 80px;
+}
+
+#b-img1 {
+    margin-left: 40px;
+    height: 40px;
+}
+
+.b-img2 {
+    margin-left: 100px;
+    height: 40px;
+}
+
+.cards {
+    position: absolute;
+    width: 75%;
+    height: 500px;
+    background-color: #f1f1f1;
+    top: 120%;
+    left: 12%;
+
+}
+
+.card-container {
+    width: 75%;
+    height: 500px;
+    background-color: #f1f1f1;
+    position: relative;
+    margin-top: 180px;
+    margin-left: 190px;
+    display: flex;
+    gap: 3px;
+}
+
+.card-1 {
+    padding: 30px;
+    height: 500px;
+    position: absolute;
+    /* background-color: white; */
+    /* top: 50%; */
+
+
+}
+
+.card-2 {
+    padding: 30px;
+    height: 500px;
+    position: absolute;
+    left: 30%;
+    /* background-color: #282828; */
+}
+
+.card-3 {
+    padding: 30px;
+    height: 500px;
+    position: absolute;
+    left: 60%;
+    bottom: 10%;
+    background: linear-gradient(90deg, #133B5A 0%, #3B77A5 100%);
+    color: white;
+    border-radius: 25px;
+    text-align: start;
+    padding-left: 25px;
+}
+.sub-btn{
+    height: 40px;
+    width: 250px;
+    background: linear-gradient(90deg, #133B5A 0%, #3B77A5 100%);
+    border-radius: 35px;
+    color: white;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.sub-btn1{
+    height: 60px;
+    width: 250px;
+    border-radius: 35px;
+    /* margin-top: 80px; */
+    margin-left: 50px;
+    
+}
+.right-btn{
+    margin-left: 150px;
+    border-radius: 35px;
+    width: 150px;
+}
+
+.span{
+ 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    margin-left: 2px;
+    color: #3d3d3d;
+}
+.span1{
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    margin-left: 2px;
+    
+}
+.plan-list li{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* color: #3D3D3D; */
+    display: block;
+    margin: 12px auto;
+    padding-left: 20px;
+    padding-bottom: 0;
+    background: url(https://campaign.thehindubusinessline.com/wp-content/uploads/2022/03/bullet-blue.png) no-repeat left 0px top 0px;
+    background-size: 18px 18px;
+}
+.options{
+   margin-top: 50px;
+   margin-left: 200px;
+}
+.annual{
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    width: 440px;
+    height: 240px;
+    display: flex;
+    position: absolute;
+    left: 35%;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+#mobile-img{
+    width: 120px;
+}
+.annual h3:hover{
+    transform: scale(1.1);
+    
+}
+.annual h3{
+   padding-top: 100px;
+   padding-left: 15px;
+}
+#mobile-img{
+    padding-top: 25px;
+}
+.products{
+    color: #133B5A;
+    position: relative;
+    margin-top: 300px;
+    margin-left: 190px;
+   
+ 
+}
+.product-cards{
+margin-top: 40px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+}
+.pro-card1,.pro-card2,.pro-card3{
+    width: 22rem;
+    height: 350px;
+    /* text-align: start; */
+}
+/* .pro-card1{
+    /* background: color #E8F4FF ;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: black; */
+/* }
+    
+
+.pro-card2{
+   
+}
+.pro-card3{
+    
+}  */
+.product-cards img{
+width: 250px;
+display: flex;
+justify-content: flex-start;
+margin-top: 35px;
+margin-left: 15px;
+   
+}
+.product-cards p{
+    padding-top: 40px;
+    margin-bottom: 1rem;
+    font-size: 23px;
+    padding-left: 20px;
+    padding-right: 15px;
+  
+}
+.benifits ul {
+    display: none;
+  }
+  
+  .benifits ul:target {
+    display: block;
+  }
+.benifits-img{
+    margin-top: 70px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+}  
+.benifits{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+#corners{
+    text-align: center;
+    /* border: 1px solid blue; */
+    width: 200px;
+    height: 200px;
+}
+#corners img{
+    text-align: center;
+    padding-top: 30px;
+   
+   margin-left: 0;
+}
+#corners h3{
+    padding-top: 30px;
+}
+#corners:hover{
+    border: 3px solid #207bc0;
+    border-radius: 5px;
+}
+.benifits ul {
+    display: none;
+  }
+  
+.accordians{
+    margin-top: 50px;
+    margin-left: 200px;
+    /* margin-bottom: 50px; */
+}
+.accordians-2{
+    margin-top: 50px;
+    
+}
+#accortext{
+    font-size: 24px;
+}
+.line{
+    border-bottom: 4px solid #7DADD4;
+    display: inline;
+    font-size: 25px;
+}
+.contact-us{
+    margin-top: 70px;
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+    /* justify-content: left; */
+    gap: 45px;
+   
+}
+.button-sub{
+    margin-top: 80px;
+    text-align: center;
+    /* width: 200px; */
+}
+#see-btn{
+    width: 420px;
+    height: 60px;
+    background: linear-gradient(90deg, #133B5A 0%, #3B77A5 100%);
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    line-height: 98.69%;
+}
+.footer{
+    background-color:#f1f1f1;
+    width: 100%;
+    height: 1000px;
+    margin-top: 80px;
+
+}
+.quiz{
+    background-color: #0973a3;
+    border-radius: 12px;
+    padding: 20px;
+    width: 600px;
+    height: 180px;
+    margin-top: 60px;
+}
+.para{
+    display: flex;
+    padding-left: 0;
+    /* margin-bottom: 40px; */
+}
+.input-text{
+    background-color: #0973a3;
+    color: white;
+    padding: 20px;
+    width: 600px;
+    height: 230px;
+    margin-top: 60px;
+    
+}
+.footer-quiz{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+}
+#Quiz{
+    width: 240px;
+     height: 50px;
+     background-color: #febf27;
+
+    cursor: pointer;
+    border:none; 
+    border-radius:15px;
+    /* padding-left: 3px; */
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.more-questions{
+    width: 1200px;
+    border: 2px solid #0973a3 ;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-left: 180px;
+    background-color: #f6f7fc;
+    /* text-align: center; */
+}
+.more-questions a{
+    text-align: center;
+    color: rgba(40,40,40,.6);
+    font-weight: 500;
+    /* margin-top: 20px; */
+}
+.foot-contact{
+    width: 1200px;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 180px;
+    background-color: #fff;
+    border-radius: 15px;
+    display: flex;
+}
+.text-contact{
+    width: 550px;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+.text-contact p{
+    font-size: 20px;
+}
+.img-mail{
+    padding-top: 75px;
+    padding-left: 250px;
+    font-size: 22px;
+    
+}
+#last-part{
+    color: rgba(40,40,40,.6);
+}
+#last-part a{
+    color: rgba(40,40,40,.6);
+}
